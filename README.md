@@ -14,13 +14,5 @@ Hello, I'm Thomas Wallace!
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
 </p>
 <br>
-
-## Connect with Me:
-  
-  <p>
-<a href="https://github.com/thomastudy"><img src="https://img.shields.io/badge/-jaiswal4sudeep-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/peter-thomas-wallace/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
-<a href="mailto:peterthomaswallace@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
-</p>
   
 <hr>
